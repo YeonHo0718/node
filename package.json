@@ -1,0 +1,14 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "wa",
+  "main": "app.js",
+  "scripts": {
+    "test": "npm start build"
+  },
+  "author": "YeonHo0718",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
